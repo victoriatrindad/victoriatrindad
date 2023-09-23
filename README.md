@@ -2,7 +2,7 @@
 
 meu nome é victoria trindade
 
--estou esdando no [Alura] (https://www.alura.com.br)
+-estou estudando no [Alura] (https://www.alura.com.br)
 
 -estou me desenvolvendo na JavaScript
 
